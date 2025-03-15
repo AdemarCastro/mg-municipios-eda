@@ -1,7 +1,14 @@
 # 📊 Análise Estatística e Geográfica dos Municípios de Minas Gerais
 
+![Ouro Preto](assets/ouro_preto.jpg)
+
 ## 📌 Descrição
 Este projeto realiza uma Análise Exploratória de Dados (EDA) sobre os municípios do estado de Minas Gerais, Brasil. O objetivo principal é extrair insights relevantes sobre distribuição populacional, indicadores socioeconômicos e características geográficas, permitindo uma melhor compreensão das disparidades regionais e possíveis estratégias de desenvolvimento. O projeto também inclui um pré-processamento detalhado dos dados para facilitar sua utilização na Atividade 03 da disciplina de Data Science do programa ZL Academy.
+
+## 🗺️ Mapa de Minas Gerais
+Abaixo está um mapa ilustrando a divisão dos municípios no estado de Minas Gerais:
+
+![Mapa de Minas Gerais](assets/mapa_mg.png)
 
 ## 📂 Estrutura do Projeto
 - **Coleta de Dados**: Importação dos dados brutos a partir de fontes confiáveis.
@@ -75,8 +82,9 @@ pip install -r requirements.txt
 
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato:
-📧 E-mail: seu-email@exemplo.com  
-🔗 LinkedIn: [seu-perfil](https://www.linkedin.com/in/seu-perfil/)  
+<br>
+- **📧 E-mail**: ademar.castro.curriculo@gmail.com <br>
+- **🔗 LinkedIn**: [Ademar Castro](https://www.linkedin.com/in/ademar-castro-8bb95b256/)
 
 ---
 
