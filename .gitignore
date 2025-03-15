@@ -1,0 +1,40 @@
+# Ambiente virtual
+/venv/
+.env
+
+# Configurações do editor
+/.vscode/
+/.idea/
+/*.sublime-workspace
+
+# Arquivos de compilação do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Dependências e pacotes
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Arquivos de banco de dados locais
+*.sqlite3
+*.db
+
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build e distribuição
+/build/
+/dist/
+/*.egg-info
+
+# Docker e Virtualização
+.dockerignore
+.vagrant/
