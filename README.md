@@ -39,7 +39,7 @@ cd analise-mg-municipios
 ```bash
 python -m venv venv  # Criar ambiente virtual
 source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate  # Windows
+.\venv\Scripts\activate  # Windows (CMD)
 ```
 
 ### 📌 3. Instalar Dependências
@@ -48,8 +48,9 @@ pip install -r requirements.txt
 ```
 
 ### 📂 4. Executar o Notebook
-- Abra o Jupyter Notebook ou Google Colab.
-- Carregue e execute o arquivo `analise_mg_municipios.ipynb`.
+- Você pode usar o VSCode para rodar o Notebook, garantindo que está utilizando o ambiente virtual que criamos.
+- Alternativamente, execute o comando `jupyter notebook` no terminal, certificando-se de estar localizado no diretório da aplicação e com o ambiente virtual ativo.
+- Após isso, carregue e execute o arquivo `analise_mg_municipios.ipynb` com uma das opções acima.
 
 
 ## 📑 Dicionário de Dados
