@@ -52,8 +52,6 @@ pip install -r requirements.txt
 - Alternativamente, execute o comando `jupyter notebook` no terminal, certificando-se de estar localizado no diretório da aplicação e com o ambiente virtual ativo.
 - Após isso, carregue e execute o arquivo `analise_mg_municipios.ipynb` com uma das opções acima.
 
-![alt text](image.png)
-
 ## 📑 Dicionário de Dados
 | Coluna | Descrição |
 |--------|------------|
